@@ -1,7 +1,7 @@
 # **LDAP2SYNOLOGYCONTACTS**
 
 ## Explanation
-P̶r̶o̶b̶l̶e̶m̶ ̶-̶ ̶N̶o̶ ̶s̶o̶l̶u̶t̶i̶o̶n̶ ̶f̶o̶r̶ ̶a̶n̶ ̶i̶O̶S̶ ̶i̶n̶t̶e̶g̶r̶a̶t̶e̶d̶ ̶s̶h̶a̶r̶e̶d̶ ̶s̶y̶n̶c̶r̶o̶n̶i̶z̶e̶d̶ ̶g̶l̶o̶b̶a̶l̶ ̶a̶d̶d̶r̶e̶s̶s̶ ̶l̶i̶s̶t̶ ̶o̶n̶ ̶a̶n̶ ̶i̶P̶h̶o̶n̶e̶ ̶s̶e̶e̶m̶s̶ ̶t̶o̶ ̶e̶x̶i̶s̶t̶ ̶/̶ ̶w̶o̶r̶k̶.̶
+Problem - No solution for an iOS integrated shared syncronized global address list on an iPhone seems to exist / work.
 
 -THIS MAY BE SOLVED NOW. With introduction of Apple Business Manager MDM, a contact directory is listed as a feature. I have yet to try it, but it sounds like it solves this issue.
 
