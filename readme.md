@@ -2,6 +2,7 @@
 
 ## Explanation
 Problem - No solution for an iOS integrated shared syncronized global address list on an iPhone seems to exist / work.
+-THIS MAY BE SOLVED NOW. With introduction of Apple Business Manager MDM, a contact directory is listed as a feature. I have yet to try it, but it sounds like it solves this issue.
 
 Solution - Read contacts from LDAP, turn these into CardDAV .vcf contact files, upload them to CardDAV server, sync iPhone to CardDAV server.
 
