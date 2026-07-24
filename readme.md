@@ -5,6 +5,10 @@ Problem - No solution for an iOS integrated shared syncronized global address li
 
 -THIS MAY BE SOLVED NOW. With introduction of Apple Business Manager MDM, a contact directory is listed as a feature. I have yet to try it, but it sounds like it solves this issue.
 
+As there is now an official way of doing this, I won't be developing further.
+
+_____
+
 Solution - Read contacts from LDAP, turn these into CardDAV .vcf contact files, upload them to CardDAV server, sync iPhone to CardDAV server.
 
 The project is currently split into three separate processes for easier testing.
@@ -42,5 +46,5 @@ This currently runs on and only has instructions for Arch Linux. As it is Python
 CARDDAV is not really designed to do this. It is more for individual contact books for each user.. but this is the only way I can find that integrates contacts into iOS.
 The wipe.py deletes the contact list and reuploads it to reset any accidental changes by anyone. This is not a perfect solution, but the best I know of.
 
-This is a work in progress. I am not responsible if this causes any damage, use at your own risk.
+I am not responsible if this causes any damage, use at your own risk.
 
